@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 5782
+  controlID: 266
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -61,9 +61,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 745.5574, y: 209.0114, z: -41.73154}
+    m_Target: {x: 785.1763, y: 311.51062, z: 508.00455}
     speed: 2
-    m_Value: {x: 745.5126, y: 208.99257, z: -42.01866}
+    m_Value: {x: 785.5899, y: 311.53348, z: 508.3048}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -110,9 +110,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.040657014, y: -0.4511731, z: -0.02061885, w: -0.8913031}
+    m_Target: {x: 0.005108393, y: -0.98243195, z: 0.025900846, w: 0.18517698}
     speed: 2
-    m_Value: {x: 0.0449448, y: -0.48934892, z: -0.02530352, w: -0.87056154}
+    m_Value: {x: 0.00506913, y: -0.98263, z: 0.025906406, w: 0.18368843}
   m_Size:
     m_Target: 8.68718
     speed: 2
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 5783
+  controlID: 267
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 5784
+  controlID: 268
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,9 +245,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 98520000
-      m_LastClickedID: 21144
-      m_ExpandedIDs: dafaffff
+      m_SelectedIDs: 02520000
+      m_LastClickedID: 20994
+      m_ExpandedIDs: 1afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -478,13 +478,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Gabs Stuff
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Gabs Stuff
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Gabriele\Documents\GitHub\FinalBazWorkingtitle\Final
     Baz Project
@@ -492,9 +492,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e0520000
-    m_LastClickedID: 21216
-    m_ExpandedIDs: 00000000d252000000ca9a3b
+    m_SelectedIDs: f4520000
+    m_LastClickedID: 21236
+    m_ExpandedIDs: 0000000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -547,8 +547,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 98520000
-    m_LastClickedInstanceID: 21144
+    m_SelectedInstanceIDs: 02520000
+    m_LastClickedInstanceID: 20994
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
