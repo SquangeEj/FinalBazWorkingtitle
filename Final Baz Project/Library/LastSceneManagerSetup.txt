@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Erin's stuff/Scenes/Erins Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
