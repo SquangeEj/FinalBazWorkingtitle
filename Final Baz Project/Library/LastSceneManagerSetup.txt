@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Erin's stuff/Scenes/Erins Scene.unity
+- path: Assets/Gabs Stuff/gabscene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
